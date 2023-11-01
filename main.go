@@ -12,7 +12,7 @@ import (
 
 func main() {
 	/* key := keystore.NewKeyStore("./wallet", keystore.StandardScryptN, keystore.StandardScryptP)
-	password := "password"
+	password := "xxxxxxx"
 	a, err := key.NewAccount(password)
 	if err != nil {
 		log.Fatal(err)
